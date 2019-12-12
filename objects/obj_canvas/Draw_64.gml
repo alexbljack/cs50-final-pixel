@@ -1,0 +1,1 @@
+draw_text(10, room_height - 60, "[ESC] Exit")
